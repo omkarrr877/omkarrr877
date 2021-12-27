@@ -3,7 +3,7 @@
 ## I'm a Full Stack Developer, who loves to code! 
 
 - 🌱 I’m currently learning latest technologies.
-- 📚 Practicing React.
+- 📚 Practicing Mern.
 - 👯 I’m looking to collaborate with other passionate developers.
 - 🥅 2022 Goals: Contribute to Open Source projects.
 - ⚡ Fun fact: I love to talk foreigners & watch videos related to history.
