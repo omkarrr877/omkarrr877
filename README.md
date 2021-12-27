@@ -40,18 +40,7 @@
 [<img align="left" alt="omkar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="omkar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="omkar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shaw12&show_icons=true&hide_border=true" />
-
-</details>
-
-[twitter]: https://twitter.com/MMyh412
-[youtube]: https://www.youtube.com/channel/UCRMOQ2LTZOzdWrkF5lnXqkQ
-[instagram]: https://www.instagram.com/shaw_012/
-[linkedin]: https://www.linkedin.com/in/mohd-yasir-hussain-95b05417a/
+<br>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/omkarbhone"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Omex" /></a></p><br><br>
